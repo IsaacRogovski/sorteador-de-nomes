@@ -1,6 +1,8 @@
 ﻿bool rodando = true;
 
 List<string> nomes = new List<string>();
+Random random = new Random();
+
 
 while (rodando)
 {
@@ -96,8 +98,19 @@ void listarNomes()
 
 void sortearNome()
 {
-    Console.WriteLine("Sortear");
-    Console.ReadLine();
+    Console.Clear();
+    if (nomes.Count != 0)
+    {
+        Console.WriteLine("Opção selecionada: Sortear Nomes \n");
+        int i = random.Next(0, nomes.Count);
+        Console.WriteLine("Nome sorteado: " + nomes[i]);
+        Console.ReadLine();
+    }
+    else
+    {
+        Console.WriteLine("Insira ao menos 2 nomes antes de sortear!");
+        Thread.Sleep(1500);
+    }
 }
 
 void sair()

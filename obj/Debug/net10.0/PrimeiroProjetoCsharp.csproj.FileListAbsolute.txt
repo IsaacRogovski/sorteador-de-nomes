@@ -12,3 +12,4 @@
 /home/isaac-rogovski/dotNetProjects/PrimeiroProjetoCsharp/obj/Debug/net10.0/PrimeiroProjetoCsharp.pdb
 /home/isaac-rogovski/dotNetProjects/PrimeiroProjetoCsharp/obj/Debug/net10.0/PrimeiroProjetoCsharp.genruntimeconfig.cache
 /home/isaac-rogovski/dotNetProjects/PrimeiroProjetoCsharp/obj/Debug/net10.0/ref/PrimeiroProjetoCsharp.dll
+/home/isaac-rogovski/dotNetProjects/PrimeiroProjetoCsharp/obj/Debug/net10.0/PrimeiroProjetoCsharp.sourcelink.json
