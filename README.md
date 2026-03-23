@@ -37,14 +37,14 @@ cd Sorteador-de-Nomes
 dotnet run
 ```
 
----
+
 
 ## Tecnologias
 
 - C#
 - .NET
 
----
+
 
 ## Autor
 
