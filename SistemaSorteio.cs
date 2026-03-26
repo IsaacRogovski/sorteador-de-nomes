@@ -9,7 +9,7 @@ public class SistemaSorteio
     {
         bool isNomeInserido = false; //Define o valor falso, que indica que ainda nao foram inseridos todos os nomes
         while (!isNomeInserido) //só vai parar caso o valor seja verdadeiro
-        {
+        { 
             Console.Clear();
             Console.WriteLine("Opção selecionada: Cadastrar nome");
             Console.WriteLine("Digite o nome a ser cadastrado:");
@@ -53,8 +53,8 @@ public class SistemaSorteio
             Console.WriteLine($"{i} - {nome}");
             i++;
         }
-        Console.WriteLine("\nPressione enter para voltar ao Inicio:");
-        Console.Read();
+        Console.WriteLine("\nPressione qualquer tecla para retornar ao Inicio:");
+        Console.ReadKey();
     }
 
     public void sortearNome()
