@@ -6,11 +6,11 @@ while (rodando) //diz que enquanto o sistema estiver rodando continua executando
 {
     Console.Clear();
     Console.WriteLine("=====Sorteio de Nomes=====");
-    Console.WriteLine("\n--Opções--\n");
-    Console.WriteLine("1 - Cadastrar Nome");
-    Console.WriteLine("2 - Listar Nomes");
-    Console.WriteLine("3 - Sortear Nomes");
-    Console.WriteLine("0 - Sair\n");
+    Console.WriteLine("\n+───Opções───+\n");
+    Console.WriteLine("┌ 1 - Cadastrar Nome");
+    Console.WriteLine("├ 2 - Listar Nomes");
+    Console.WriteLine("├ 3 - Sortear Nomes");
+    Console.WriteLine("└ 0 - Sair\n");
     Console.Write("Insira a opção que deseja: ");
 
     if (!int.TryParse(Console.ReadLine(), out int opcao)) // ve se o valor inserido é um inteiro

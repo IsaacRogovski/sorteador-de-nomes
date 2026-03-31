@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/isaacrogovski/Área de trabalho/Sorteador-de-Nomes/PrimeiroProjetoCsharp.csproj",
+      "projectUniqueName": "/home/isaacrogovski/Área de trabalho/sorteador-de-nomes/PrimeiroProjetoCsharp.csproj",
       "projectName": "PrimeiroProjetoCsharp",
-      "projectPath": "/home/isaacrogovski/Área de trabalho/Sorteador-de-Nomes/PrimeiroProjetoCsharp.csproj",
+      "projectPath": "/home/isaacrogovski/Área de trabalho/sorteador-de-nomes/PrimeiroProjetoCsharp.csproj",
       "packagesPath": "/home/isaacrogovski/.nuget/packages/",
-      "outputPath": "/home/isaacrogovski/Área de trabalho/Sorteador-de-Nomes/obj/",
+      "outputPath": "/home/isaacrogovski/Área de trabalho/sorteador-de-nomes/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/isaacrogovski/.nuget/NuGet/NuGet.Config"
