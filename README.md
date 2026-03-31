@@ -22,13 +22,13 @@ Siga os passos abaixo para rodar o projeto na sua máquina:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/IsaacRogovski/Sorteador-de-Nomes.git
+git clone https://github.com/IsaacRogovski/sorteador-de-nomes.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd Sorteador-de-Nomes
+cd sorteador-de-nomes
 ```
 
 ### 3. Execute o projeto
