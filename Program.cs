@@ -36,8 +36,6 @@ while (rodando) //diz que enquanto o sistema estiver rodando continua executando
                 rodando = false;
                 break;
             default:
-                Console.WriteLine("Opção inválida. Por favor, selecione uma opção válida.");
-                Thread.Sleep(1000);
                 break;
         }
     }
